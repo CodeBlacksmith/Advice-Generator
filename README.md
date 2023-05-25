@@ -1,8 +1,9 @@
 # Frontend Mentor - Advice generator app solution
-
+![Design preview for the Advice generator app coding challenge](./design/Advice-generator.png)
 ## Advice Generator App
 
 This is the README file for an advice generator app. The HTML code provided represents the structure and layout of the app's user interface.
+I did not consider the use of media queries necessary, as the styling and structure of the page can be sufficiently responsive with CSS.
 
 ### Usage
 To use the app, simply open the HTML file in a web browser. The app will display a random piece of advice each time the user clicks the "Generator Advice" button.
